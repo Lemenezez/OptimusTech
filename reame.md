@@ -28,7 +28,6 @@ Imagens e gráficos: Para destacar a cultura e as oportunidades da empresa.
 📁 Estrutura do Projeto
 
 O projeto é organizado da seguinte forma:
-
 index.html: Arquivo principal com a estrutura da página.
 style.css: Estilos customizados para a página.
 images/: Pasta que contém as imagens utilizadas, incluindo o logotipo e fotos institucionais.
